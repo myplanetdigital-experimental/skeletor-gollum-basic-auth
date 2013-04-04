@@ -1,0 +1,3 @@
+[submodule "project_repo"]
+	path = project_repo
+	url = https://github.com/myplanetdigital/drupal-skeletor.git
